@@ -2,7 +2,7 @@
 Project ini merupakan example implementasi dari protocol buffers dan grpc dengan menggunakan bahasa go. Untuk menjalankan protobuff harus terinstall applikasinya terlebih dahulu.
 
 ## Installation on windows
-Bisa menggunakan link ini [geeksforgeeks] (https://www.geeksforgeeks.org/how-to-install-protocol-buffers-on-windows/)
+Bisa menggunakan link ini [geeksforgeeks](https://www.geeksforgeeks.org/how-to-install-protocol-buffers-on-windows/)
 
 ## Installation on linux
 
