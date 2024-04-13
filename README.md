@@ -23,6 +23,6 @@ $ protoc --version  # Ensure compiler version is 3+
 # run protoc
 protoc *.proto --go_out=.
 
-# run application go
+# run application
 go run cmd/main.go
 ```
